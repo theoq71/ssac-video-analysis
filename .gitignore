@@ -1,0 +1,12 @@
+*.MOV
+*.mov
+*.mp4
+jobs/
+proxies/
+analyses/
+.venv/
+__pycache__/
+.DS_Store
+_to_delete/
+*.png
+*.jpg
